@@ -1,0 +1,13 @@
+# Build do SwiftPM (SwiftTerm checkout, objetos, índices)
+native/.build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sessão/ferramentas locais
+.claude/
+.DS_Store
+
+# Backups nunca entram no repo
+UltraBackups/

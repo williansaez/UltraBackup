@@ -1,0 +1,8 @@
+{
+  "claude": {
+    "match_names": ["Claude"],
+    "match_bundle_ids": ["com.anthropic.claudefordesktop", "com.anthropic.claude"],
+    "extras": ["~/.claude", "~/.claude.json", "~/.claude.json.backup"],
+    "notes": "Claude Code CLI vive em ~/.claude; token OAuth em ~/.claude.json"
+  }
+}
