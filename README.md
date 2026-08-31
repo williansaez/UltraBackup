@@ -1,3 +1,7 @@
+<a href="https://www.buymeacoffee.com/williansaez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # UltraBackup
 
 Backup **file-level completo**, por app, para macOS — **com lista explícita do
@@ -366,3 +370,4 @@ python3 -m unittest discover -s tests -v
 
 Os testes rodam contra um home falso injetado (`home=` em todas as APIs) e não
 tocam o seu home real.
+
